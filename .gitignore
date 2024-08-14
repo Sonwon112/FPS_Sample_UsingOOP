@@ -1,0 +1,16 @@
+*.meta
+*.sln
+
+/.vs
+/Library
+/Logs
+/obj
+/Packages
+/ProjectSettings
+/Temp
+/UserSettings
+
+/Assets/*
+
+!/Assets/FPSScript/
+!/Assets/Scenes/
