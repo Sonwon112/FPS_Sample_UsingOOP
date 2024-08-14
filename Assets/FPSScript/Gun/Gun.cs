@@ -72,8 +72,7 @@ public class Gun : MonoBehaviour, Interactable
             bulletTmp.GetComponent<Rigidbody>().AddForce(bulletTmp.transform.forward * shotPow, ForceMode.Impulse);
             GameObject effectTmp = Instantiate(shotEffect, bulletSpawn.transform);
             Destroy(effectTmp, 3);
-            audioSource.Stop();
-            audioSource.Play();
+            audioSource.PlayOneShot(audioSource.clip);
             switch (currGunMode)
             {
                 case GunMode.SHOT:
