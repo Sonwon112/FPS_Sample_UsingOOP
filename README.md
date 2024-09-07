@@ -189,5 +189,5 @@ public void Shot()
 ![img3](https://github.com/user-attachments/assets/8292e8a5-68c2-42a9-9984-2422a9c76dfa)<br/>
 게임을 시작하고 적이 스폰된 모습
 ![img4](https://github.com/user-attachments/assets/fb7ff3f0-90db-463c-9aaa-b060ffaba5d4)<br/>
-승리 조건을 충족하고 승리한 모습
+승리 조건을 충족하고 승리한 모습<br/>
 [실행영상](https://drive.google.com/file/d/1s29mgxBuUjLFOk1KKdascTfdwgj7h8VC/view?usp=sharing)
